@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# .o files
+*.o
+
+# vscode
+.vscode/
+/tmp
+*.txt
+shell
+tokenize
+tokenize_expr
